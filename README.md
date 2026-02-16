@@ -58,7 +58,7 @@ Python · Pandas · NumPy · Scikit‑learn · Jupyter · GitHub Actions · Data
 ## 📫 Let’s Connect
 
 * **GitHub:** @bdgaskins27889
-* **LinkedIn:** https://www.linkedin.com/in/barbara-d-gaskins
+* **LinkedIn:** [https://www.linkedin.com/in/barbara-d-gaskins](https://www.linkedin.com/in/barbara-d-gaskins-382a789?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 * **Email:** bdgaskins27889@gmail.com
 
 > *Data science is only powerful when it leads to better decisions—for people, not just models.*
