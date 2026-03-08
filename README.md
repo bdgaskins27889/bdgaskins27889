@@ -12,10 +12,19 @@ I build **responsible, real‑world data science tools** that help communities s
 * **Needs‑matching & recommendation models** for reentry and workforce support
 * **Policy‑driven analytics** using administrative and public datasets
 * **Responsible AI** in high‑stakes social systems (fairness, limits, misuse prevention)
+* **Generative AI** for community violence intervention and trauma‑informed decision support
 
 ---
 
 ## ⭐ Featured Projects
+
+### 🤝 [CVI AI Assistant — Generative AI for Community Violence Intervention](https://github.com/bdgaskins27889/cvi-ai-assistant)
+
+*A fine‑tuned generative AI system providing trauma‑informed, non‑punitive decision support for CVI practitioners.*
+**Skills:** Fine‑tuning (GPT‑4.1‑mini), prompt engineering, Streamlit, OpenAI API, ethical AI
+→ *Community safety · Generative AI · Trauma‑informed care · DSC 670 Final Project*
+
+> Five specialized tools: De‑Escalation Guidance · Scenario‑Based Coaching · Trauma‑Informed Reframing · Documentation Assistant · Reflective Analysis
 
 ### 🏠 Eviction Early Warning System
 
@@ -46,16 +55,17 @@ I build **responsible, real‑world data science tools** that help communities s
 * Housing stability and eviction prevention
 * Community violence intervention (public‑health lens)
 * AI ethics in social and governmental systems
+* Generative AI applications for social impact
 
 ---
 
 ## 🧰 Tools & Methods
 
-Python · Pandas · NumPy · Scikit‑learn · Jupyter · GitHub Actions · Data Visualization · CRISP‑DM · Interpretable ML · Policy Analysis
+Python · Pandas · NumPy · Scikit‑learn · OpenAI API · Streamlit · Jupyter · GitHub Actions · Data Visualization · CRISP‑DM · Interpretable ML · Policy Analysis · Prompt Engineering · Fine‑Tuning
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 * **GitHub:** @bdgaskins27889
 * **LinkedIn:** [https://www.linkedin.com/in/barbara-d-gaskins](https://www.linkedin.com/in/barbara-d-gaskins-382a789?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
